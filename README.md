@@ -1,6 +1,7 @@
 # 202501011_N02
 代码：
 
+```
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         # 使用字典来统计magazine中每个字符的数量
